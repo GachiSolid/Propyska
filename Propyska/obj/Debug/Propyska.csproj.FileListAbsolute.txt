@@ -1,0 +1,163 @@
+E:\Projects\Propyska\Propyska\bin\Debug\Propyska.exe.config
+E:\Projects\Propyska\Propyska\bin\Debug\Propyska.exe
+E:\Projects\Propyska\Propyska\bin\Debug\Propyska.pdb
+E:\Projects\Propyska\Propyska\obj\Debug\Propyska.csprojResolveAssemblyReference.cache
+E:\Projects\Propyska\Propyska\obj\Debug\Propyska.Form1.resources
+E:\Projects\Propyska\Propyska\obj\Debug\Propyska.Properties.Resources.resources
+E:\Projects\Propyska\Propyska\obj\Debug\Propyska.csproj.GenerateResource.Cache
+E:\Projects\Propyska\Propyska\obj\Debug\Propyska.csproj.CoreCompileInputs.cache
+E:\Projects\Propyska\Propyska\obj\Debug\Propyska.exe
+E:\Projects\Propyska\Propyska\obj\Debug\Propyska.pdb
+E:\Projects\Propyska\Propyska\obj\Debug\Propyska.Form2.resources
+E:\Projects\Propyska\Propyska\obj\Debug\Propyska.Form3.resources
+E:\Projects\Propyska\Propyska\obj\Debug\Propyska.Form4.resources
+E:\Projects\Propyska\Propyska\obj\Debug\Propyska.Form5.resources
+G:\Propyska\Propyska\bin\Debug\Propyska.exe.config
+G:\Propyska\Propyska\obj\Debug\Propyska.exe
+G:\Propyska\Propyska\obj\Debug\Propyska.pdb
+E:\Propyska\Propyska\bin\Debug\Propyska.exe.config
+E:\Propyska\Propyska\bin\Debug\Propyska.exe
+E:\Propyska\Propyska\bin\Debug\Propyska.pdb
+E:\Propyska\Propyska\obj\Debug\Propyska.csprojResolveAssemblyReference.cache
+E:\Propyska\Propyska\obj\Debug\Propyska.Form1.resources
+E:\Propyska\Propyska\obj\Debug\Propyska.Form2.resources
+E:\Propyska\Propyska\obj\Debug\Propyska.Form3.resources
+E:\Propyska\Propyska\obj\Debug\Propyska.Form4.resources
+E:\Propyska\Propyska\obj\Debug\Propyska.Form5.resources
+E:\Propyska\Propyska\obj\Debug\Propyska.Properties.Resources.resources
+E:\Propyska\Propyska\obj\Debug\Propyska.csproj.GenerateResource.Cache
+E:\Propyska\Propyska\obj\Debug\Propyska.csproj.CoreCompileInputs.cache
+E:\Propyska\Propyska\obj\Debug\Propyska.exe
+E:\Propyska\Propyska\obj\Debug\Propyska.pdb
+E:\Propyska\Propyska\bin\Debug\AppData\Propyska.mdf
+E:\Propyska\Propyska\bin\Debug\AppData\Propyska_log.ldf
+F:\Propyska\Propyska\bin\Debug\AppData\Propyska.mdf
+F:\Propyska\Propyska\bin\Debug\AppData\Propyska_log.ldf
+F:\Propyska\Propyska\bin\Debug\Propyska.exe.config
+F:\Propyska\Propyska\bin\Debug\Propyska.exe
+F:\Propyska\Propyska\bin\Debug\Propyska.pdb
+F:\Propyska\Propyska\obj\Debug\Propyska.csprojResolveAssemblyReference.cache
+F:\Propyska\Propyska\obj\Debug\Propyska.Form1.resources
+F:\Propyska\Propyska\obj\Debug\Propyska.Form2.resources
+F:\Propyska\Propyska\obj\Debug\Propyska.Form3.resources
+F:\Propyska\Propyska\obj\Debug\Propyska.Form4.resources
+F:\Propyska\Propyska\obj\Debug\Propyska.Form5.resources
+F:\Propyska\Propyska\obj\Debug\Propyska.Properties.Resources.resources
+F:\Propyska\Propyska\obj\Debug\Propyska.csproj.GenerateResource.Cache
+F:\Propyska\Propyska\obj\Debug\Propyska.csproj.CoreCompileInputs.cache
+F:\Propyska\Propyska\obj\Debug\Propyska.exe
+F:\Propyska\Propyska\obj\Debug\Propyska.pdb
+F:\Propyska\Propyska\obj\Debug\Propyska.Form7.resources
+F:\Propyska\Propyska\obj\Debug\Propyska.Form8.resources
+C:\Users\user\Desktop\Propyska\Propyska\bin\Debug\AppData\Propyska.mdf
+C:\Users\user\Desktop\Propyska\Propyska\bin\Debug\AppData\Propyska_log.ldf
+C:\Users\user\Desktop\Propyska\Propyska\bin\Debug\Propyska.exe.config
+C:\Users\user\Desktop\Propyska\Propyska\bin\Debug\Propyska.exe
+C:\Users\user\Desktop\Propyska\Propyska\bin\Debug\Propyska.pdb
+C:\Users\user\Desktop\Propyska\Propyska\obj\Debug\Propyska.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Propyska\Propyska\obj\Debug\Propyska.Form1.resources
+C:\Users\user\Desktop\Propyska\Propyska\obj\Debug\Propyska.Form2.resources
+C:\Users\user\Desktop\Propyska\Propyska\obj\Debug\Propyska.Form3.resources
+C:\Users\user\Desktop\Propyska\Propyska\obj\Debug\Propyska.Form4.resources
+C:\Users\user\Desktop\Propyska\Propyska\obj\Debug\Propyska.Form5.resources
+C:\Users\user\Desktop\Propyska\Propyska\obj\Debug\Propyska.Form6.resources
+C:\Users\user\Desktop\Propyska\Propyska\obj\Debug\Propyska.Form7.resources
+C:\Users\user\Desktop\Propyska\Propyska\obj\Debug\Propyska.Form8.resources
+C:\Users\user\Desktop\Propyska\Propyska\obj\Debug\Propyska.Properties.Resources.resources
+C:\Users\user\Desktop\Propyska\Propyska\obj\Debug\Propyska.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Propyska\Propyska\obj\Debug\Propyska.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Propyska\Propyska\obj\Debug\Propyska.exe
+C:\Users\user\Desktop\Propyska\Propyska\obj\Debug\Propyska.pdb
+E:\Загрузки\Propyskam\Propyska\Propyska\bin\Debug\AppData\Propyska.mdf
+E:\Загрузки\Propyskam\Propyska\Propyska\bin\Debug\AppData\Propyska_log.ldf
+E:\Загрузки\Propyskam\Propyska\Propyska\bin\Debug\Propyska.exe.config
+E:\Загрузки\Propyskam\Propyska\Propyska\bin\Debug\Propyska.exe
+E:\Загрузки\Propyskam\Propyska\Propyska\bin\Debug\Propyska.pdb
+E:\Загрузки\Propyskam\Propyska\Propyska\obj\Debug\Propyska.csprojResolveAssemblyReference.cache
+E:\Загрузки\Propyskam\Propyska\Propyska\obj\Debug\Propyska.Form1.resources
+E:\Загрузки\Propyskam\Propyska\Propyska\obj\Debug\Propyska.Form2.resources
+E:\Загрузки\Propyskam\Propyska\Propyska\obj\Debug\Propyska.Form3.resources
+E:\Загрузки\Propyskam\Propyska\Propyska\obj\Debug\Propyska.Form4.resources
+E:\Загрузки\Propyskam\Propyska\Propyska\obj\Debug\Propyska.Form5.resources
+E:\Загрузки\Propyskam\Propyska\Propyska\obj\Debug\Propyska.Form7.resources
+E:\Загрузки\Propyskam\Propyska\Propyska\obj\Debug\Propyska.Form8.resources
+E:\Загрузки\Propyskam\Propyska\Propyska\obj\Debug\Propyska.Properties.Resources.resources
+E:\Загрузки\Propyskam\Propyska\Propyska\obj\Debug\Propyska.csproj.GenerateResource.Cache
+E:\Загрузки\Propyskam\Propyska\Propyska\obj\Debug\Propyska.csproj.CoreCompileInputs.cache
+E:\Загрузки\Propyskam\Propyska\Propyska\obj\Debug\Propyska.exe
+E:\Загрузки\Propyskam\Propyska\Propyska\obj\Debug\Propyska.pdb
+F:\Бюро пропусков\Propyska\Propyska\bin\Debug\Propyska.exe.config
+F:\Бюро пропусков\Propyska\Propyska\obj\Debug\Propyska.exe
+F:\Бюро пропусков\Propyska\Propyska\obj\Debug\Propyska.pdb
+F:\Бюро пропусков\Propyska\Propyska\bin\Debug\AppData\Propyska.mdf
+F:\Бюро пропусков\Propyska\Propyska\bin\Debug\AppData\Propyska_log.ldf
+F:\Бюро пропусков\Propyska\Propyska\bin\Debug\Propyska.exe
+F:\Бюро пропусков\Propyska\Propyska\bin\Debug\Propyska.pdb
+F:\Бюро пропусков\Propyska\Propyska\obj\Debug\Propyska.csprojResolveAssemblyReference.cache
+F:\Бюро пропусков\Propyska\Propyska\obj\Debug\Propyska.Form1.resources
+F:\Бюро пропусков\Propyska\Propyska\obj\Debug\Propyska.Form2.resources
+F:\Бюро пропусков\Propyska\Propyska\obj\Debug\Propyska.Form3.resources
+F:\Бюро пропусков\Propyska\Propyska\obj\Debug\Propyska.Form4.resources
+F:\Бюро пропусков\Propyska\Propyska\obj\Debug\Propyska.Form5.resources
+F:\Бюро пропусков\Propyska\Propyska\obj\Debug\Propyska.Form7.resources
+F:\Бюро пропусков\Propyska\Propyska\obj\Debug\Propyska.Form8.resources
+F:\Бюро пропусков\Propyska\Propyska\obj\Debug\Propyska.Properties.Resources.resources
+F:\Бюро пропусков\Propyska\Propyska\obj\Debug\Propyska.csproj.GenerateResource.Cache
+F:\Бюро пропусков\Propyska\Propyska\obj\Debug\Propyska.csproj.CoreCompileInputs.cache
+E:\Бюро пропусков\Propyska\Propyska\bin\Debug\AppData\Propyska.mdf
+E:\Бюро пропусков\Propyska\Propyska\bin\Debug\AppData\Propyska_log.ldf
+E:\Бюро пропусков\Propyska\Propyska\bin\Debug\Propyska.exe.config
+E:\Бюро пропусков\Propyska\Propyska\bin\Debug\Propyska.exe
+E:\Бюро пропусков\Propyska\Propyska\bin\Debug\Propyska.pdb
+E:\Бюро пропусков\Propyska\Propyska\obj\Debug\Propyska.csprojResolveAssemblyReference.cache
+E:\Бюро пропусков\Propyska\Propyska\obj\Debug\Propyska.Form1.resources
+E:\Бюро пропусков\Propyska\Propyska\obj\Debug\Propyska.Form2.resources
+E:\Бюро пропусков\Propyska\Propyska\obj\Debug\Propyska.Form3.resources
+E:\Бюро пропусков\Propyska\Propyska\obj\Debug\Propyska.Form4.resources
+E:\Бюро пропусков\Propyska\Propyska\obj\Debug\Propyska.Form5.resources
+E:\Бюро пропусков\Propyska\Propyska\obj\Debug\Propyska.Form7.resources
+E:\Бюро пропусков\Propyska\Propyska\obj\Debug\Propyska.Form8.resources
+E:\Бюро пропусков\Propyska\Propyska\obj\Debug\Propyska.Properties.Resources.resources
+E:\Бюро пропусков\Propyska\Propyska\obj\Debug\Propyska.csproj.GenerateResource.Cache
+E:\Бюро пропусков\Propyska\Propyska\obj\Debug\Propyska.exe
+E:\Бюро пропусков\Propyska\Propyska\obj\Debug\Propyska.pdb
+C:\Users\user\Downloads\Бюро пропусков\Propyska\Propyska\bin\Debug\AppData\Propyska.mdf
+C:\Users\user\Downloads\Бюро пропусков\Propyska\Propyska\bin\Debug\AppData\Propyska_log.ldf
+C:\Users\user\Downloads\Бюро пропусков\Propyska\Propyska\bin\Debug\Propyska.exe.config
+C:\Users\user\Downloads\Бюро пропусков\Propyska\Propyska\bin\Debug\Propyska.exe
+C:\Users\user\Downloads\Бюро пропусков\Propyska\Propyska\bin\Debug\Propyska.pdb
+C:\Users\user\Downloads\Бюро пропусков\Propyska\Propyska\obj\Debug\Propyska.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\Бюро пропусков\Propyska\Propyska\obj\Debug\Propyska.Form1.resources
+C:\Users\user\Downloads\Бюро пропусков\Propyska\Propyska\obj\Debug\Propyska.Form2.resources
+C:\Users\user\Downloads\Бюро пропусков\Propyska\Propyska\obj\Debug\Propyska.Form3.resources
+C:\Users\user\Downloads\Бюро пропусков\Propyska\Propyska\obj\Debug\Propyska.Form4.resources
+C:\Users\user\Downloads\Бюро пропусков\Propyska\Propyska\obj\Debug\Propyska.Form5.resources
+C:\Users\user\Downloads\Бюро пропусков\Propyska\Propyska\obj\Debug\Propyska.Form7.resources
+C:\Users\user\Downloads\Бюро пропусков\Propyska\Propyska\obj\Debug\Propyska.Form8.resources
+C:\Users\user\Downloads\Бюро пропусков\Propyska\Propyska\obj\Debug\Propyska.Properties.Resources.resources
+C:\Users\user\Downloads\Бюро пропусков\Propyska\Propyska\obj\Debug\Propyska.csproj.GenerateResource.Cache
+C:\Users\user\Downloads\Бюро пропусков\Propyska\Propyska\obj\Debug\Propyska.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Бюро пропусков\Propyska\Propyska\obj\Debug\Propyska.exe
+C:\Users\user\Downloads\Бюро пропусков\Propyska\Propyska\obj\Debug\Propyska.pdb
+E:\Projects\Propyska\Propyska\bin\Debug\AppData\Propyska.mdf
+E:\Projects\Propyska\Propyska\bin\Debug\AppData\Propyska_log.ldf
+E:\Projects\Propyska\Propyska\obj\Debug\Propyska.Form7.resources
+E:\Projects\Propyska\Propyska\obj\Debug\Propyska.Form8.resources
+D:\Projects\Propyska\Propyska\bin\Debug\AppData\Propyska.mdf
+D:\Projects\Propyska\Propyska\bin\Debug\AppData\Propyska_log.ldf
+D:\Projects\Propyska\Propyska\bin\Debug\Propyska.exe.config
+D:\Projects\Propyska\Propyska\bin\Debug\Propyska.exe
+D:\Projects\Propyska\Propyska\bin\Debug\Propyska.pdb
+D:\Projects\Propyska\Propyska\obj\Debug\Propyska.csprojResolveAssemblyReference.cache
+D:\Projects\Propyska\Propyska\obj\Debug\Propyska.Form1.resources
+D:\Projects\Propyska\Propyska\obj\Debug\Propyska.Form2.resources
+D:\Projects\Propyska\Propyska\obj\Debug\Propyska.Form3.resources
+D:\Projects\Propyska\Propyska\obj\Debug\Propyska.Form4.resources
+D:\Projects\Propyska\Propyska\obj\Debug\Propyska.Form5.resources
+D:\Projects\Propyska\Propyska\obj\Debug\Propyska.Form7.resources
+D:\Projects\Propyska\Propyska\obj\Debug\Propyska.Form8.resources
+D:\Projects\Propyska\Propyska\obj\Debug\Propyska.Properties.Resources.resources
+D:\Projects\Propyska\Propyska\obj\Debug\Propyska.csproj.GenerateResource.Cache
+D:\Projects\Propyska\Propyska\obj\Debug\Propyska.csproj.CoreCompileInputs.cache
+D:\Projects\Propyska\Propyska\obj\Debug\Propyska.exe
+D:\Projects\Propyska\Propyska\obj\Debug\Propyska.pdb
